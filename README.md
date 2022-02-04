@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jbsatx
+- 👀 I’m interested in - mainly front end web development learning. Taking full stack and hoping to use this new skill set with new and exisiting clients I serve in the assocation / meeting management arena.
+- 🌱 I’m currently learning - html, CSS and javascript
+- 💞️ I’m looking - to collaborate on mainly idea shares but networking, opportunities to develop with other like minded individuals.
+- 📫 How to reach me jbsatx@gmail.com
+--->
